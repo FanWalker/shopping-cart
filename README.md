@@ -24,7 +24,8 @@ npm run build --report
 
       vue init webpack Vue-Project      //webpack初始项目
 
-
+#### 案例演示：
+![](http://img.blog.csdn.net/20171113121105322?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZndqOTE2ODg5Njcy/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 #### 需要用到的知识
 [vue2.0](https://cn.vuejs.org/v2/guide/)
